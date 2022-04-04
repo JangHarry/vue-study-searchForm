@@ -33,6 +33,7 @@ axios , moment , sass
 2일 이내 검색결과는 new 이미지 출력 , 일자 days ago 
 
 ### vue create front-home
+```
 > Manually select features
 > Choose Vue version / Babel & Linter / Formatter
 > 2.x
@@ -40,6 +41,7 @@ axios , moment , sass
 > Lint on save
 > In dedicated config files
 > N
+```
 
 ![capture1](https://user-images.githubusercontent.com/44596184/161486157-40517757-04f5-463f-96cc-a6ad29889419.png)
 ![capture2](https://user-images.githubusercontent.com/44596184/161486171-b22575d8-c975-488b-a85d-747997e10b02.png)
