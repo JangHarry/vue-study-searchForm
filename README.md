@@ -41,5 +41,7 @@ axios , moment , sass
 > In dedicated config files
 > N
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![capture1](https://user-images.githubusercontent.com/44596184/161486157-40517757-04f5-463f-96cc-a6ad29889419.png)
+![capture2](https://user-images.githubusercontent.com/44596184/161486171-b22575d8-c975-488b-a85d-747997e10b02.png)
+![capture3](https://user-images.githubusercontent.com/44596184/161486177-0657385a-7a06-4d6e-9e6f-2d289ed5a9c8.png)
+
